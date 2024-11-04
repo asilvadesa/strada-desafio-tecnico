@@ -24,5 +24,6 @@ Até o presente momento foram finalizados 3 dos 4 projetos de automação
 - Para Instalar só seguir conforme a documentação: https://grafana.com/docs/k6/latest/set-up/install-k6/
 - Para execução Load Testing para rodar o comando: k6 run loadTesting.js
 ![alt text](https://github.com/asilvadesa/strada-desafio-tecnico/blob/master/strada-load-test/images/loadTesting.PNG)
-- Para execução Stress Testing para rodar o comando: k6 run loadTesting.js
+
+- Para execução Stress Testing para rodar o comando: k6 run stressTesting.js
 ![alt text](https://github.com/asilvadesa/strada-desafio-tecnico/blob/master/strada-load-test/images/stressTesting.PNG)
