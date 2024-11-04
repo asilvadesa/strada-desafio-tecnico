@@ -1,6 +1,6 @@
 # strada-desafio-tecnico
-Até o presente momento foram finalizados 3 dos 4 projetos de automação
-
+- Até o presente momento foram finalizados 3 dos 4 projetos de automação
+- Eu tenho um repositório que fiz de uma automação usando Appium caso queria avalidar: https://github.com/asilvadesa/appium
 
 
 
