@@ -9,6 +9,7 @@ Até o presente momento foram finalizados 3 dos 4 projetos de automação
 - Esse projeto foi criado SpringBoot, Java 17, TestNG e Maven
 - Para report: Extent Reports
 - Para execução para rodar o comando: mvn clean test
+- Para visualizar o arquivo: target/HtmlReport/ExtentHtml.html
 
 # strada-web-test
 
