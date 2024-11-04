@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite Functional">
+    <test name="FunctionalTest" >
+      <classes>
+          <class name="com.strada.api.testcase.FunctionalTest"/>
+      </classes>
+    </test>
+</suite>

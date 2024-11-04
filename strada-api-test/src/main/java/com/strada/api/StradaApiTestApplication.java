@@ -1,0 +1,13 @@
+package com.strada.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StradaApiTestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StradaApiTestApplication.class, args);
+	}
+
+}
