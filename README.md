@@ -11,6 +11,8 @@ Até o presente momento foram finalizados 3 dos 4 projetos de automação
 - Para execução para rodar o comando: mvn clean test
 - Para visualizar o arquivo: target/HtmlReport/ExtentHtml.html
 
+![alt text](https://github.com/asilvadesa/strada-desafio-tecnico/blob/master/strada-api-test/src/test/resources/images/extentReports.PNG)
+
 # strada-web-test
 
 - Esse projeto foi criado Java 17, Junit5 e Maven
